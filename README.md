@@ -1,7 +1,13 @@
 # APA
 run_3aQTL_mapping
+
 TWAS_1PrediXcan_training_model
+
 TWAS_2PrediXcan_generate_db
+
 TWAS_3PrediXcan_assoc
+
 TWAS_4assoc_results_plot
+
 run_diff_apa_pdui
+
